@@ -23,10 +23,12 @@ This project implements a recommendation system to suggest products to users bas
    pip install -r requirements.txt
 
 ## Usage
-2.**Install Dependencies (if not already done):**
+
+1. **Install Dependencies (if not already done):**
    ```bash
    pip install -r requirements.txt
-2.**Generate Recommendations for a Specific User:**
+
+2. **Generate Recommendations for a Specific User:**
    ```bash
 python -c "from src.recommendation import recommend; print(recommend(11))"
 

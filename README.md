@@ -30,7 +30,7 @@ This project implements a recommendation system to suggest products to users bas
 
 2. **Generate Recommendations for a Specific User:**
    ```bash
-python -c "from src.recommendation import recommend; print(recommend(11))"
+   python -c "from src.recommendation import recommend; print(recommend(11))"
 
 
 

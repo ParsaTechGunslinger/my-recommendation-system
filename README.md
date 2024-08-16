@@ -78,6 +78,14 @@ Make sure your dataset (ratings_Electronics.csv) is in the correct path or updat
 
        # Example usage:
        print(recommend(11))
+3.**ecpecte output**
+   ```bash
+         user_id  product_id  score  Rank
+         0       11        12345     50     1
+         1       11        67890     45     2
+         2       11        54321     40     3
+
+
 
    
   
